@@ -6,7 +6,7 @@ I'm not a programmer, but I build with AI coding tools and take architecture and
 
 ## Tools
 
-| Tool | Description | Link |
+| Tool | Description | GitHub |
 |---|---|---|
 | **OneNote to Joplin Readiness** | Windows tool to check system readiness for OneNote to Joplin migration | [Link](https://github.com/dimaginar/onenote-to-joplin) |
 | **Photo and Video Organizer** | Windows tool to organize photos and videos by year | [Link](https://github.com/dimaginar/photo-video-organizer) |
