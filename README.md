@@ -6,10 +6,11 @@ I'm not a programmer, but I build with AI coding tools and take architecture and
 
 ## Tools
 
-| Name & Description                                                                                                     | GitHub                                                                 |
-| ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| **OneNote to Joplin Readiness** - Windows tool that checks if your system is ready to migrate OneNote notes to Joplin. | [Link](/tmp/.mount_joplinqcFDPP/resources/app.asar/link "link")        |
-| **Photo and Video Organizer** - Windows tool to organize photos and videos by year.                                    | [Link](/tmp/.mount_joplinqcFDPP/resources/app.asar/link "link")        |
-| **AI Assistant Instructions** - A collection of AI assistant instructions for creative and professional use.           | [Link](/tmp/.mount_joplinqcFDPP/resources/app.asar/link "link")        |
+| Tool | Description | Link |
+|---|---|---|
+| **OneNote to Joplin Readiness** | Windows tool to check system readiness for OneNote to Joplin migration | [Link](https://github.com/dimaginar/onenote-to-joplin) |
+| **Photo and Video Organizer** | Windows tool to organize photos and videos by year | [Link](https://github.com/dimaginar/photo-video-organizer) |
+| **AI Assistant Instructions** | Collection of AI assistant instructions for creative and professional use | [Link](https://github.com/dimaginar/GPTs) |
+
 
 Feel free to help me improve the code. I'm always looking to learn.
