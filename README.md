@@ -6,10 +6,10 @@ I'm not a programmer, but I build with AI coding tools and take architecture and
 
 ## Tools
 
-| Name & Description                                                                                                     | Repo                                                                                       |
-| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| **OneNote to Joplin Readiness** - Windows tool that checks if your system is ready to migrate OneNote notes to Joplin. | [dimaginar/onenote-to-joplin](/tmp/.mount_joplinqcFDPP/resources/app.asar/link "link")     |
-| **Photo and Video Organize**r - Windows tool to organize photos and videos by year.                                    | [dimaginar/photo-video-organizer](/tmp/.mount_joplinqcFDPP/resources/app.asar/link "link") |
-| **AI Assistant Instructions** - A collection of AI assistant instructions for creative and professional use.           | [dimaginar/GPTs](/tmp/.mount_joplinqcFDPP/resources/app.asar/link "link")                  |
+| Name & Description                                                                                                     | GitHub                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| **OneNote to Joplin Readiness** - Windows tool that checks if your system is ready to migrate OneNote notes to Joplin. | [Link](/tmp/.mount_joplinqcFDPP/resources/app.asar/link "link")        |
+| **Photo and Video Organizer** - Windows tool to organize photos and videos by year.                                    | [Link](/tmp/.mount_joplinqcFDPP/resources/app.asar/link "link")        |
+| **AI Assistant Instructions** - A collection of AI assistant instructions for creative and professional use.           | [Link](/tmp/.mount_joplinqcFDPP/resources/app.asar/link "link")        |
 
 Feel free to help me improve the code. I'm always looking to learn.
