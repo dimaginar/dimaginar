@@ -1,5 +1,5 @@
 # Dimaginar
-As part of my journey to figure out how digital autonomy works in practice, I create digital tools. To me, building my own tools is the most beautiful form of digital autonomy in practice.
+As part of my digital autonomy journey, I build digital tools. To me, that's the most beautiful form of digital autonomy in practice.
 
 My build process runs on AI agentic engineering, and even though I don't have a programming background, I put serious effort into architecture and security.
 
