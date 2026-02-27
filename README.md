@@ -6,7 +6,7 @@ My build process runs on AI agentic engineering, and even though I don't have a 
 ## Tools
 | Tool | Description | GitHub |
 |---|---|---|
-| **Joplin Smart Search** | Semantic search for your Joplin notes, works on Linux and Windows. | [Link](https://github.com/dimaginar/joplin-smart-search) |
+| **Joplin Smart Search** | Semantic search tool for your Joplin notes, works on Linux and Windows. | [Link](https://github.com/dimaginar/joplin-smart-search) |
 | **OneNote to Joplin Readiness** | Windows tool to check system readiness for OneNote to Joplin migration | [Link](https://github.com/dimaginar/onenote-to-joplin) |
 | **Photo and Video Organizer** | Windows tool to organize photos and videos by year | [Link](https://github.com/dimaginar/photo-video-organizer) |
 | **AI Assistant Instructions** | Collection of AI assistant instructions for creative and professional use | [Link](https://github.com/dimaginar/GPTs) |
