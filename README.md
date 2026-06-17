@@ -6,6 +6,7 @@ My build process runs on AI agentic engineering, and even though I don't have a 
 ## Tools
 | Tool | Description | GitHub |
 |---|---|---|
+| **Pi Safe** | Bubblewrap sandbox for the Pi AI coding agent. | [Link](https://github.com/dimaginar/pi-safe) |
 | **Joplin Smart Search** | Semantic search tool for your Joplin notes, works on Linux and Windows. | [Link](https://github.com/dimaginar/joplin-smart-search) |
 | **OneNote to Joplin Readiness** | Windows tool to check system readiness for OneNote to Joplin migration | [Link](https://github.com/dimaginar/onenote-to-joplin) |
 | **Photo and Video Organizer** | Windows tool to organize photos and videos by year | [Link](https://github.com/dimaginar/photo-video-organizer) |
